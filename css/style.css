@@ -1,0 +1,53 @@
+                .inhalt {
+                        margin-top: 80px;
+                        color: #151313;
+                    }
+                    
+                    .profilbild_image {
+                        margin-bottom: 20px;
+                    }
+                    
+                    body {
+                        font-family: century gothic, sans-serif;
+                    }
+                    
+                    h1 {
+                        letter-spacing: 3px;
+                        opacity: 1.0;
+                    }
+                    
+                    p {
+                        font-size: 12px;
+                    }
+                    /*
+                            @keyframes erscheinen {
+     0% {
+         opacity: 0.0;
+     }
+     100% {
+         opacity: 1.0;
+     }
+ }
+ 
+ .bildunterschrift {
+     opacity: 0.0;
+ }
+ 
+ h2 {
+     opacity: 0.0;
+ }
+*/
+                    /*
+                            h2:hover {
+                                animation-name: : erscheinen;
+                                animation-duration: 10s;
+                                opacity: 1.0;
+                            }
+*/
+                    /*
+                                .bildunterschrift:hover {
+     animation-name: : erscheinen;
+     animation-duration: 10s;
+     opacity: 1.0;
+*/
+                }
